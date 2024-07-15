@@ -21,10 +21,11 @@
 - React Native
 
 ##Functionality
-- Patient Registration
-- Manage Patient Record
-- Predictive analytics 
-- Machine Learning Algorithms
-- Notified Patient for Medication
-- Prescription Management
+- Patient Registration (clerk)
+- Manage Patient Record (admin)
+- Predictive analytics (clerk)
+- Machine Learning Algorithms (clerk)
+- Notified Patient for Medication (doctor)
+- Prescription Management (doctor)
+- Monitoring Medical Record,Prescription (patient)
 - Integration with Other Systems
