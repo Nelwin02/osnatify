@@ -25,6 +25,7 @@
 - Medical Records Management
 - Manage Patient Records
 - Predictive analytics
+- Machine Learning Algorithms
 - Notified Patient for Medication
 - Prescription Management
 - Integration with Other Systems
