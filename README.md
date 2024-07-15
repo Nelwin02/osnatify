@@ -19,6 +19,7 @@
 - Php
 - Html
 - React Native
+- Python
 
 ##Functionality
 - Patient Registration (clerk)
