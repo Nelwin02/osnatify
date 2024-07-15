@@ -22,9 +22,8 @@
 
 ##Functionality
 - Patient Registration
-- Medical Records Management
-- Manage Patient Records
-- Predictive analytics
+- Manage Patient Record
+- Predictive analytics 
 - Machine Learning Algorithms
 - Notified Patient for Medication
 - Prescription Management
