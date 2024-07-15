@@ -1,7 +1,7 @@
-##Members Name 
-#Rosales Nelwin D. 
-#Bautista John Paul L.
-#Mendoza Gaimar C.
+# Capstone Project
 
-##Capstone Requirements List
-#
+## Members
+
+- Rosales Nelwin D.
+- Bautista John Paul L. 
+- Mendoza Gaimar C.
