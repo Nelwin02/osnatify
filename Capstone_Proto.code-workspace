@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/ninar/OneDrive/Desktop/Capstone_Proto"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Hospital-Management-System-PHP"
+		},
+		{
+			"path": "../pms"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web_Capstone"
+	}
+}
